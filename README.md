@@ -1,5 +1,5 @@
 ## Introdution
-对yolov5处理无偏差，只使用opencv-dnn
+对yolov5处理无偏差，只使用opencv-dnn;
 Deploy ultralytics [Yolov5](https://github.com/ultralytics/yolov5.git) pretained model with C++ language ;
 
 <div align="center">
